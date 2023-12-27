@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://kzw.github.io/Toolset/atom.xml" rel="self"/>
+  <link href="https://github.com/kzw3933/atom.xml" rel="self"/>
   
-  <link href="https://kzw.github.io/Toolset/"/>
+  <link href="https://github.com/kzw3933/"/>
   <updated>2023-12-27T08:49:01.217Z</updated>
-  <id>https://kzw.github.io/Toolset/</id>
+  <id>https://github.com/kzw3933/</id>
   
   <author>
     <name>kzw3933</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>使用hexo和github搭建个人博客</title>
-    <link href="https://kzw.github.io/Toolset/2023/12/27/%E4%BD%BF%E7%94%A8hexo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://kzw.github.io/Toolset/2023/12/27/%E4%BD%BF%E7%94%A8hexo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://github.com/kzw3933/2023/12/27/%E4%BD%BF%E7%94%A8hexo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/kzw3933/2023/12/27/%E4%BD%BF%E7%94%A8hexo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-12-27T07:08:56.695Z</published>
     <updated>2023-12-27T08:49:01.217Z</updated>
     
