@@ -6,7 +6,7 @@
   <link href="https://kzw3933.github.io/atom.xml" rel="self"/>
   
   <link href="https://kzw3933.github.io/"/>
-  <updated>2023-12-28T14:58:35.154Z</updated>
+  <updated>2023-12-29T05:10:39.766Z</updated>
   <id>https://kzw3933.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>编程语言学习感悟</title>
+    <link href="https://kzw3933.github.io/2023/12/29/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%84%9F%E6%82%9F/"/>
+    <id>https://kzw3933.github.io/2023/12/29/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%84%9F%E6%82%9F/</id>
+    <published>2023-12-29T05:10:17.000Z</published>
+    <updated>2023-12-29T05:10:39.766Z</updated>
+    
+    
+    
+    
+    <category term="学习感悟" scheme="https://kzw3933.github.io/categories/%E5%AD%A6%E4%B9%A0%E6%84%9F%E6%82%9F/"/>
+    
+    
+    <category term="编程语言" scheme="https://kzw3933.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
   
   <entry>
     <title>java学习小结</title>
