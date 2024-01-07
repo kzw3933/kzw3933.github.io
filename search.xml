@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Ubuntu(双系统)安装、美化以及日常使用</title>
+      <link href="/2024/01/07/Ubuntu(%E5%8F%8C%E7%B3%BB%E7%BB%9F)%E5%AE%89%E8%A3%85%E3%80%81%E7%BE%8E%E5%8C%96%E4%BB%A5%E5%8F%8A%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8/"/>
+      <url>/2024/01/07/Ubuntu(%E5%8F%8C%E7%B3%BB%E7%BB%9F)%E5%AE%89%E8%A3%85%E3%80%81%E7%BE%8E%E5%8C%96%E4%BB%A5%E5%8F%8A%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>由于喜欢折腾和经常删除系统进重装，且有时会因此重装前忘记备份自己之前的一些配置，遂在此进行记录，方便之后的安装。</p><h2 id="Ubuntu安装"><a href="#Ubuntu安装" class="headerlink" title="Ubuntu安装"></a>Ubuntu安装</h2><h2 id="Ubuntu美化"><a href="#Ubuntu美化" class="headerlink" title="Ubuntu美化"></a>Ubuntu美化</h2><p>个人不喜欢太复杂的美化，在此只进行了gnome主题,图标主题,一些gnome extension的安装，以及zsh的配置。</p><h2 id="日常使用"><a href="#日常使用" class="headerlink" title="日常使用"></a>日常使用</h2><p>这里记录了自己经常使用的一些软件。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Ubuntu安装 </tag>
+            
+            <tag> 美化 </tag>
+            
+            <tag> 日常使用 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>编程语言学习总结</title>
       <link href="/2024/01/04/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
       <url>/2024/01/04/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</url>
