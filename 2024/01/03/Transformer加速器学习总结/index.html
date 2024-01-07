@@ -209,7 +209,7 @@
 </li>
 </ul>
 <p>这四个会议创新型依次下降，但是工程性都比较强</p>
-<h3 id="论文主题"><a href="#论文主题" class="headerlink" title="论文主题"></a>论文主题</h3><p>主要阅读了<code>Transformer架构及其变种</code>,<code>模型压缩</code>和<code>加速器设计</code>方面的论文,相关可见<a href="../论文阅读阶段性总结-一/index.html">论文阅读阶段性总结(一)</a></p>
+<h3 id="论文主题"><a href="#论文主题" class="headerlink" title="论文主题"></a>论文主题</h3><p>主要阅读了<code>Transformer架构及其变种</code>,<code>模型压缩</code>和<code>加速器设计</code>方面的论文,相关可见<a href="../%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E9%98%B6%E6%AE%B5%E6%80%A7%E6%80%BB%E7%BB%93-%E4%B8%80/index.html">论文阅读阶段性总结(一)</a></p>
 <h2 id="工具学习"><a href="#工具学习" class="headerlink" title="工具学习"></a>工具学习</h2><h3 id="HLS学习资源汇总"><a href="#HLS学习资源汇总" class="headerlink" title="HLS学习资源汇总"></a>HLS学习资源汇总</h3><p>HLS（High-Level Synthesis）是一种用于硬件设计的自动化工具，它允许工程师使用高级编程语言来描述硬件功能，而无需深入了解硬件描述语言（HDL）如 Verilog 或 VHDL。有关HLS相关资料和教程主要参考Xilinx的官方资料教程</p>
 <ul>
 <li><p>Vivado Design Suite Tutorial: High-Level Synthesis (UG871 v2021.1 2021.3.26)<br>一组较小的教程，解释并演示了使用高层次综合将C、C++、SystemC代码转换成RTL实现过程中的所有步骤。循序渐进的介绍了<code>C验证</code>,<code>接口综合</code>,<code>优化设计</code>,<code>RTL验证</code>,<code>在IP整合器中使用HLS IP</code>，<code>在Zynq SoC设计中使用HLS IP</code>和<code>在DSP系统生成器中使用HLS IP</code>等内容。值得一提的是，教程关于优化的部分详细分析了如何使用Vitis HLS分析一个现有设计存在的问题，以及如何使用<code>HLS pragma</code>逐步优化以达到要求的吞吐率。教程中的项目源码可以<a target="_blank" rel="noopener" href="https://github.com/jmduarte/HLS_hls4ml_Tutorial">HLS_hls4ml_Tutorial</a>找到,原教程使用的HLS工具版本较早,最新的HLS工具会自动完成一些优化，因此会出现和教程里不一致的情况,可以尝试较早版本的HLS工具学习。</p>
